@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackFowl.Server", "BlackFowl.Server\BlackFowl.Server.csproj", "{E20FDA17-84C3-407C-94B1-F7059D28D5BE}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "blackfowl.client", "blackfowl.client\blackfowl.client.esproj", "{7F820659-1B8A-4069-B6A5-2852EF547EF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E20FDA17-84C3-407C-94B1-F7059D28D5BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E20FDA17-84C3-407C-94B1-F7059D28D5BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E20FDA17-84C3-407C-94B1-F7059D28D5BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E20FDA17-84C3-407C-94B1-F7059D28D5BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F820659-1B8A-4069-B6A5-2852EF547EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F820659-1B8A-4069-B6A5-2852EF547EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F820659-1B8A-4069-B6A5-2852EF547EF4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7F820659-1B8A-4069-B6A5-2852EF547EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F820659-1B8A-4069-B6A5-2852EF547EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F820659-1B8A-4069-B6A5-2852EF547EF4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C99CD58-89BD-426F-866D-E6454089B042}
+	EndGlobalSection
+EndGlobal
